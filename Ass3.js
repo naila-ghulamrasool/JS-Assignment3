@@ -1,0 +1,11 @@
+let age = 20;
+alert("I am " + age + " years old");
+let visitCount = 14;  
+alert("You have visited this site " + visitCount + " times");
+let birthYear = 2005;  
+document.writeln("My birth year is " + birthYear + "<br>");
+document.writeln("Data type of my declared variable is " + typeof birthYear);
+let visitorName = "John Doe";
+let productTitle = "T-shirt(s)";
+let quantity = 5;
+document.writeln(visitorName + " ordered " + quantity + " " + productTitle + " on XYZ Clothing store.<br>");
